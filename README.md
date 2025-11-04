@@ -82,6 +82,13 @@ The model produces accurate segmentation masks that effectively highlight oil sp
 📷 *Predicted overlays highlight detected oil spill regions in red.*
 
 ---
+##  Screenshot
+
+<img width="1912" height="908" alt="image" src="https://github.com/user-attachments/assets/26223225-c5e9-4abe-8e0f-080ac1d7df8e" />
+<img width="1919" height="847" alt="image" src="https://github.com/user-attachments/assets/035798b0-58c2-41a7-9b3b-cbe3837c332c" />
+<img width="1914" height="900" alt="image" src="https://github.com/user-attachments/assets/5fcd0d6c-400d-416a-b46d-08f96a703831" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/9d4f8990-230a-49e8-9fb2-97aa1b039018" />
+
 
 ## 🌍 Deployment Instructions
 
@@ -156,5 +163,8 @@ requests==2.32.3
 # Optional (safety for Colab + TensorFlow GPU)
 protobuf==4.25.3
 h5py==3.11.0
+
+
+
 
 
